@@ -1,0 +1,13 @@
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\bin\Debug\R6S Chat Spammer.exe.config
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\bin\Debug\R6S Chat Spammer.exe
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\bin\Debug\R6S Chat Spammer.pdb
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S Chat Spammer.csprojResolveAssemblyReference.cache
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S_Chat_Spammer.Properties.Resources.resources
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S Chat Spammer.csproj.GenerateResource.cache
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S Chat Spammer.csproj.CoreCompileInputs.cache
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S Chat Spammer.exe
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S Chat Spammer.pdb
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S_Chat_Spammer.Spammer.resources
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\obj\Debug\R6S Chat Spammer.csproj.CopyComplete
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\bin\Debug\HotkeyLib.dll
+C:\Users\Squints\source\repos\R6S Chat Spammer\R6S Chat Spammer\bin\Debug\HotkeyLib.pdb

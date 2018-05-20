@@ -1,0 +1,12 @@
+C:\Users\Squints\Desktop\dll\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.dll
+C:\Users\Squints\Desktop\dll\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.pdb
+C:\Users\Squints\Desktop\dll\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csprojResolveAssemblyReference.cache
+C:\Users\Squints\Desktop\dll\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csproj.CoreCompileInputs.cache
+C:\Users\Squints\Desktop\dll\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.dll
+C:\Users\Squints\Desktop\dll\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.pdb
+C:\Users\Squints\source\repos\R6S Chat Spammer\HotkeyLib\bin\Debug\HotkeyLib.dll
+C:\Users\Squints\source\repos\R6S Chat Spammer\HotkeyLib\bin\Debug\HotkeyLib.pdb
+C:\Users\Squints\source\repos\R6S Chat Spammer\HotkeyLib\obj\Debug\HotkeyLib.csprojResolveAssemblyReference.cache
+C:\Users\Squints\source\repos\R6S Chat Spammer\HotkeyLib\obj\Debug\HotkeyLib.csproj.CoreCompileInputs.cache
+C:\Users\Squints\source\repos\R6S Chat Spammer\HotkeyLib\obj\Debug\HotkeyLib.dll
+C:\Users\Squints\source\repos\R6S Chat Spammer\HotkeyLib\obj\Debug\HotkeyLib.pdb
